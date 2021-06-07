@@ -1,0 +1,1 @@
+web:  she  setup.sh && streamlit run eda.py
